@@ -31,5 +31,9 @@
             <id>Thingml Repository</id>
             <url>http://maven.thingml.org/thingml-release/</url>
         </repository>
+        <repository>
+            <id>Thingml Thirdparty</id>
+            <url>http://maven.thingml.org/thirdparty/</url>
+        </repository>
     </repositories>
 </project>
